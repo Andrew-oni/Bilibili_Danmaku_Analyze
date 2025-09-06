@@ -1,0 +1,24 @@
+{
+  "n": 86959,
+  "average": 0.483748,
+  "buckets": {
+    "Very Negative": 27755,
+    "Negative": 8403,
+    "Neutral": 19240,
+    "Positive": 7003,
+    "Very Positive": 24558
+  },
+  "ratios": {
+    "Very Negative": 0.319173,
+    "Negative": 0.096632,
+    "Neutral": 0.221254,
+    "Positive": 0.080532,
+    "Very Positive": 0.282409
+  },
+  "files": {
+    "scored_csv": "sentiment_scored_202509061806.csv",
+    "extremes_txt": "sentiment_extremes_202509061806.txt",
+    "bar_html": "sentiment_distribution_202509061806.html",
+    "hist_png": "sentiment_histogram_202509061806.png"
+  }
+}
